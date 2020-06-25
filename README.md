@@ -1,6 +1,6 @@
 # Convolutional Networks using PyTorch
  
-we implement a convolutional neural network to perform image classiffication and explore
+we implement a convolutional neural network to perform image classification and explore
 methods to improve the training performance and generalization of these networks.
 We use the CIFAR-10 dataset as a benchmark for out networks. This dataset
 consists of 50000 training images of 32x32 resolution with 10 object classes, namely airplanes, cars, birds, cats,
